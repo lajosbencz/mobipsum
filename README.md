@@ -2,6 +2,8 @@
 
 > Generate placeholder text from mob slang
 
+[Live app here](https://lajosbencz.github.io/mobipsum/)
+
 ## Build Setup
 
 ``` bash
